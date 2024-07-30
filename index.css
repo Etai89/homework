@@ -78,4 +78,14 @@ body{
 }
 #link1{
     text-align: center;
+    color: rgb(104, 59, 27);
+}
+#rep{
+    position: fixed;
+    margin-top: 55%;
+    width: 400px;
+    height: 50px;
+    margin-left: 27%;
+    font-size: 20px;
+
 }
