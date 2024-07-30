@@ -1,0 +1,87 @@
+body{
+    background: darkgrey;
+}
+#menu{
+    width: 99%;
+    height: 85px;
+    background: white;
+    position: fixed;
+}
+#logo{
+    background-image: url(assets/logo.png);
+    background-size: 75px;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 10%;
+    margin-right: 10px;
+    border-radius: 0%;
+}
+#header{
+    width: 500px;
+    margin-right: 20px;
+    color: rgb(121, 87, 3);
+    border-radius: 0%;
+    background: white;
+}
+.items{
+    text-align: center;
+    border-radius: 25%;
+    width: 100px;
+    height: 70px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    float: right;
+}
+#left{
+    float: left;
+    margin-left: 10px;
+}
+.text_style{
+    color: rgb(175, 173, 169);
+    font-size: 22px;
+}
+#left1, #left2, #left3{
+    margin-right: 10px;
+}
+#text_header{
+    margin: 100px 10px;    
+    background-image: url(assets/books.png);
+    background-size: 450px;
+    width: 450px;
+    height: 550px;
+    float: right;
+}
+#text_text{
+    margin: 100px 10px;
+    background-image: url(assets/backgound5.jpg);
+    background-size: 450px;
+    width: 450px;
+    height: 550px;
+    float: left;
+    
+}
+#head_text{
+    text-align: center;
+    font-size: 26px;
+    
+}
+#article{
+    padding: 1px 20px;
+    color: rgb(20, 16, 16);
+    font-size: 16px;
+}
+
+#link1{
+    text-align: center;
+    color: rgb(104, 59, 27);
+}
+#rep{
+    position: fixed;
+    margin-top: 55%;
+    width: 400px;
+    height: 50px;
+    margin-left: 27%;
+    font-size: 20px;
+
+}
